@@ -1,4 +1,4 @@
-module github.com/jacstn/golang-bitcoinstats
+module github.com/jacstn/golang-url-shortner
 
 go 1.19
 

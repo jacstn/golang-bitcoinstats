@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
-	"github.com/jacstn/golang-bitcoinstats/pkg/handlers"
+	"github.com/jacstn/golang-url-shortner/pkg/handlers"
 )
 
 func routes() *chi.Mux {
